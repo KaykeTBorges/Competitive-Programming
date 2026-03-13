@@ -1,50 +1,27 @@
-# 📚 Beecrowd Solutions Repository
+# Competitive Programming Solutions
 
-Welcome to my repository of solutions for Beecrowd problems (formerly URI Online Judge)! Here you'll find my implementations for various programming challenges.
+Repository with my solutions to programming problems from:
 
-## 🏆 About Beecrowd
+- LeetCode
+- Beecrowd
 
-[Beecrowd](https://www.beecrowd.com.br/) is a competitive programming platform that offers coding problems to help develop problem-solving skills and programming logic. The platform contains problems at various difficulty levels and supports multiple programming languages.
+The goal of this repository is to practice algorithms, data structures, and problem solving.
 
-## 📂 Repository Structure
+## Structure
 
-```
-beecrowd-solutions/
-│
-├── beginner/           # Beginner-level problems
-│   ├── 1001.c          # Solution for problem 1001 in C
-│   ├── 1002.py         # Solution for problem 1002 in Python
-│   └── ...             
-│
-├── ad-hoc/             # Ad-hoc problems
-│   ├── 1024.c          # Solution for problem 1024 in C
-│   └── ...
-│
-├── strings/            # String manipulation problems
-│   ├── 1234.cpp        # Solution for problem 1234 in C++
-│   └── ...
-│
-└── README.md           # This file
-```
+leetcode/
+beecrowd/
 
-## 📝 How to Use
+Each file represents a solution to a problem.
 
-1. Navigate to the folder of the problem you're interested in
-2. Find the solution in your preferred programming language
-3. Feel free to study the code or suggest improvements
+## Languages
 
-## 🛠 Languages Used
+- C
+- Python
 
-- [x] C
-- [x] Python
-- [] C++
-- [ ] Others (coming soon)
+## Author
 
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-By [Kayke Borges](https://github.com/KaykeTBorges) | [kayke.preparo](https://www.beecrowd.com.br/judge/pt/profile/kayke.preparo)
+Kayke Borges  
+GitHub: https://github.com/KaykeTBorges  
+Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/kayke.preparo
+LeetCode: https://leetcode.com/u/kaykeTBorges/
