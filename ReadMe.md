@@ -23,6 +23,6 @@ Each file represents a solution to a problem.
 ## Author
 
 Kayke Borges  
-GitHub: https://github.com/KaykeTBorges
-Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/kayke.preparo
-LeetCode: https://leetcode.com/u/kaykeTBorges/
+- GitHub: https://github.com/KaykeTBorges
+- Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/kayke.preparo
+- LeetCode: https://leetcode.com/u/kaykeTBorges/
