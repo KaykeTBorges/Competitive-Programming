@@ -10,6 +10,7 @@ The goal of this repository is to practice algorithms, data structures, and prob
 ## Structure
 
 -> leetcode/
+
 -> beecrowd/
 
 Each file represents a solution to a problem.
