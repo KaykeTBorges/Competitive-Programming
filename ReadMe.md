@@ -16,6 +16,7 @@ Each file represents a solution to a problem.
 
 ## Languages
 
+- C
 - C++
 - Python
 
@@ -23,7 +24,5 @@ Each file represents a solution to a problem.
 
 Kayke Borges  
 GitHub: https://github.com/KaykeTBorges
-
 Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/kayke.preparo
-
 LeetCode: https://leetcode.com/u/kaykeTBorges/
